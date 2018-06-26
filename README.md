@@ -1,2 +1,2 @@
 # basic-lottery-contract
-This is a basic lottery smart contract build with solidity
+This is a basic lottery Ethereum smart contract build with solidity
